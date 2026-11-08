@@ -204,16 +204,16 @@ void main(){
   float limb = smoothstep(0.0, 0.35, facing);
   float d = acos(clamp(dot(normalize(position), uTarget), -1.0, 1.0)); // angle from Araku
   // a soft pulse travelling outwards from Araku
-  float ring = exp(-pow((d - fract(uTime*0.22)*0.5)*38.0, 2.0)) * (1.0 - fract(uTime*0.22));
-  float near = exp(-d*d*240.0);
+  float ring = exp(-pow((d - fract(uTime*0.22)*0.03)*600.0, 2.0)) * (1.0 - fract(uTime*0.22));
+  float near = exp(-d*d*400000.0); // only Araku itself glows gold (about 0.3 degrees), not the neighbouring states
   float twinkle = 0.75 + 0.25*sin(uTime*1.7 + aSeed*40.0);
-  vA = limb * mix(1.0, uDense, aDense) * uFade * (0.7 + 0.3*twinkle);
+  vA = limb * mix(1.0, uDense * 0.5, aDense) * uFade * (0.7 + 0.3*twinkle); // the fine patch is lighter, so it never reads as a blob
   // close to the ground the sparse cover thins away and only the fine patch stays
   vA *= mix(1.0, 1.0 - uNear*0.85, 1.0 - aDense);
   vec3 ink = vec3(0.180, 0.090, 0.063), gold = vec3(0.690, 0.478, 0.165);
-  vCol = mix(ink, gold, clamp(near*1.1 + ring*1.0 + aDense*0.45, 0.0, 1.0));
+  vCol = mix(ink, gold, clamp(near*1.2 + ring*1.0, 0.0, 1.0));
   vA *= (0.82 + near*0.18 + ring*0.4);
-  float sz = uSize * mix(1.0, 0.55, aDense);
+  float sz = uSize * mix(1.0, 0.55, aDense) * (1.0 + near * 1.6); // Araku: one larger gold point
   gl_PointSize = clamp(sz * uDpr * (4.2 / -mv.z), 1.0, mix(9.0, 5.0, aDense) * uDpr);
   gl_Position = projectionMatrix * mv;
 }`,k=`
