@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/2sul1orstjypj.css","style"]
-:HL["/_next/static/chunks/0i1yf07cxn390.css","style"]
+:HL["/_next/static/chunks/0si4zo1vp16a7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"lDO_EK-o2cS_424dXRoXm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"k5MBUWIcwOgaWIopEy2u7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
