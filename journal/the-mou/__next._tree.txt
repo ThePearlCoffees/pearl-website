@@ -1,4 +1,4 @@
-:HL["/pearl-website/_next/static/chunks/3lrdln3k0-8f-.css","style"]
+:HL["/pearl-website/_next/static/chunks/0dq397n5hcvu6.css","style"]
 :HL["/pearl-website/_next/static/media/Montserrat_Light-s.p.0p4qqoqn7wenh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pearl-website/_next/static/media/Montserrat_Medium-s.p.062s9py13rf-5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pearl-website/_next/static/media/Montserrat_Regular-s.p.3dw-2r4091oc3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"the-mou","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"journal","h":131168,"c":"$Q2"}]]
-0:{"b":"3sK5zVGriYFHMYjujwAT7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"BmW5xM7RJU4UTiVL0K-UQ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
