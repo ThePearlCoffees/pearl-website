@@ -1,4 +1,4 @@
-:HL["/pearl-website/_next/static/chunks/0l66mgwhxxyct.css","style"]
+:HL["/pearl-website/_next/static/chunks/18ajlge8sg4vq.css","style"]
 :HL["/pearl-website/_next/static/media/Montserrat_Light-s.p.0p4qqoqn7wenh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pearl-website/_next/static/media/Montserrat_Medium-s.p.062s9py13rf-5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pearl-website/_next/static/media/Montserrat_Regular-s.p.3dw-2r4091oc3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/pearl-website/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"our-origins","h":96,"c":"$Q2"}]]
-0:{"b":"VbvUAK8X4iFmXhmoMkI-p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qy2uqDIPkQaApQIW0f_85","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
