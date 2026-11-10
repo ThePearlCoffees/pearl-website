@@ -8,4 +8,4 @@
 :HL["/pearl-website/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"datenschutz","h":96,"c":"$Q2"}]]
-0:{"b":"uFBfJww6cpfo1hjqz095W","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xI_1Sv_S0j1xBN9_a1tit","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
