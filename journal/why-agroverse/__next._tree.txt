@@ -11,4 +11,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"why-agroverse","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"journal","h":131168,"c":"$Q2"}]]
-0:{"b":"WKbN7OQSGgNyNKeSZeHn_","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"-X9AFSKG6Y_yY1AzXdCAE","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
