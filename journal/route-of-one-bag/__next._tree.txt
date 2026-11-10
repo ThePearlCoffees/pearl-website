@@ -10,4 +10,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"route-of-one-bag","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"journal","h":131168,"c":"$Q2"}]]
-0:{"b":"WujYRF7XIxc1U55fhokEQ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"lJzOD5M2nUwQIq2gG7uRl","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
