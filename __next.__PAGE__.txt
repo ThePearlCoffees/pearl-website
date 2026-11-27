@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-3:"/_next/static/chunks/186r-h_9v-1v3.js"
-4:"/_next/static/chunks/25fklosivtawt.js"
-5:"/_next/static/chunks/08fyzvkkh5kzp.js"
+3:"/_next/static/chunks/03oo6t7h-c-cj.js"
+4:"/_next/static/chunks/312esc7tl7kqn.js"
+5:"/_next/static/chunks/435ckhzbhu4bb.js"
 6:I[44995,["$3","$4","$5"],"default"]
 7:I[20032,["$3","$4","$5"],"default"]
 8:I[71829,["$3","$4","$5"],"default"]
@@ -9,49 +9,50 @@
 a:I[39756,["$3","$4","$5"],"default"]
 b:I[37457,["$3","$4","$5"],"default"]
 c:I[13642,["$3","$4","$5"],"default"]
-d:I[17721,["$3","$4","$5"],"default"]
-e:I[25205,["$3","$4","$5"],"default"]
-12:"/_next/static/chunks/0of7za35-gaj7.js"
-13:"/_next/static/chunks/2w94su56vmqj6.js"
-14:"/_next/static/chunks/0-h6u8uaj_5k2.js"
-15:I[98176,["$3","$4","$5","$12","$13","$14"],"default"]
-16:I[19304,["$3","$4","$5","$12","$13","$14"],"default"]
-17:I[97367,["$3","$4","$5"],"OutletBoundary"]
-18:"$Sreact.suspense"
-1b:"ViewportBoundary"
-1c:I[97367,["$3","$4","$5"],"$1b"]
-1d:"MetadataBoundary"
-1e:I[97367,["$3","$4","$5"],"$1d"]
+d:I[44525,["$3","$4","$5"],"default"]
+e:I[17721,["$3","$4","$5"],"default"]
+f:I[25205,["$3","$4","$5"],"default"]
+13:"/_next/static/chunks/2qb0q0-btzlgj.js"
+14:"/_next/static/chunks/2w94su56vmqj6.js"
+15:"/_next/static/chunks/0-h6u8uaj_5k2.js"
+16:I[98176,["$3","$4","$5","$13","$14","$15"],"default"]
+17:I[19304,["$3","$4","$5","$13","$14","$15"],"default"]
+18:I[97367,["$3","$4","$5"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1c:"ViewportBoundary"
+1d:I[97367,["$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$3","$4","$5"],"$1e"]
 :HL["/_next/static/chunks/2sul1orstjypj.css","style"]
-:HL["/_next/static/chunks/1xnbhxws9-pf7.css","style"]
+:HL["/_next/static/chunks/2oic96x_pu-ze.css","style"]
 2:["$","style",null,{"children":".loader{display:none}.js-reveal,.reveal-word{opacity:1!important;visibility:visible!important;transform:none!important;filter:none!important}"}]
-10:X
-11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L15",null,{"scene":"journey"}],["$","$L16",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/0of7za35-gaj7.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2w94su56vmqj6.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0-h6u8uaj_5k2.js","async":true}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$10"}}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2sul1orstjypj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1xnbhxws9-pf7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/186r-h_9v-1v3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/25fklosivtawt.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/08fyzvkkh5kzp.js","async":true}]],["$","html",null,{"lang":"en","className":"I_7Jba_variable GQwjCa_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-forest font-sans text-cream antialiased","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"tpc-loader-seen\")===\"1\")document.documentElement.setAttribute(\"data-loader-seen\",\"\")}catch(e){}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://thepearlcoffees.com/#org\",\"name\":\"The Pearl Coffees\",\"legalName\":\"Agroverse UG (haftungsbeschränkt)\",\"url\":\"https://thepearlcoffees.com/\",\"logo\":\"https://thepearlcoffees.com/icon.png\",\"email\":\"founder@thepearlcoffees.com\",\"sameAs\":[\"https://www.instagram.com/thepearlcoffees/\",\"https://www.linkedin.com/company/agroverse-innovations/\"],\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ewaldstraße 90C\",\"postalCode\":\"12524\",\"addressLocality\":\"Berlin\",\"addressCountry\":\"DE\"}},{\"@type\":\"WebSite\",\"@id\":\"https://thepearlcoffees.com/#site\",\"url\":\"https://thepearlcoffees.com/\",\"name\":\"The Pearl Coffees\",\"publisher\":{\"@id\":\"https://thepearlcoffees.com/#org\"}}]}"}}],["$","noscript",null,{"children":"$2"}],["$","a",null,{"href":"#main","className":"skip-link tracked","children":"Skip to content"}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","className":"relative z-[1]","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2C1A0E"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Pearl Coffees — Single-origin coffee from India"}],["$","meta","1",{"name":"description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}],["$","link","2",{"rel":"canonical","href":"https://thepearlcoffees.com/"}],["$","meta","3",{"property":"og:title","content":"The Pearl Coffees — Single-origin coffee from India"}],["$","meta","4",{"property":"og:description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}],null]}],"$L30"]}],"p":"$@31","v":null,"s":"$10"}},"a":"$@32","u":"$@33","b":"3d17XgsyPtoJASFbwYyje"}
-34:I[27201,["$3","$4","$5"],"IconMark"]
-19:null
-1f:["$","meta","5",{"property":"og:url","content":"https://thepearlcoffees.com/"}]
-20:["$","meta","6",{"property":"og:site_name","content":"The Pearl Coffees"}]
-21:["$","meta","7",{"property":"og:locale","content":"en"}]
-22:["$","meta","8",{"property":"og:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
-23:["$","meta","9",{"property":"og:image:width","content":"1200"}]
-24:["$","meta","10",{"property":"og:image:height","content":"630"}]
-25:["$","meta","11",{"property":"og:image:alt","content":"Araku Valley, India, seen through the trees"}]
-26:["$","meta","12",{"property":"og:type","content":"website"}]
-27:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
-28:["$","meta","14",{"name":"twitter:title","content":"The Pearl Coffees — Single-origin coffee from India"}]
-29:["$","meta","15",{"name":"twitter:description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}]
-2a:["$","meta","16",{"name":"twitter:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
-2b:["$","meta","17",{"name":"twitter:image:alt","content":"Araku Valley, India, seen through the trees"}]
-2c:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
-2d:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
-2e:["$","link","20",{"rel":"icon","href":"/icon.png?icon.2eah-d015vb8b.png","sizes":"256x256","type":"image/png"}]
-2f:["$","$L34","21",{}]
-30:["$","meta",null,{"name":"next-size-adjust","content":""}]
-10:300
-33:true
-10:C
-32:0
-f:"$undefined"
-31:"$undefined"
-1a:"$undefined"
+11:X
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L16",null,{"scene":"journey"}],["$","$L17",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/2qb0q0-btzlgj.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2w94su56vmqj6.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0-h6u8uaj_5k2.js","async":true}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}],"p":"$@1b","v":null,"s":"$11"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2sul1orstjypj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2oic96x_pu-ze.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/03oo6t7h-c-cj.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/312esc7tl7kqn.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/435ckhzbhu4bb.js","async":true}]],["$","html",null,{"lang":"en","className":"I_7Jba_variable GQwjCa_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-forest font-sans text-cream antialiased","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"tpc-loader-seen\")===\"1\")document.documentElement.setAttribute(\"data-loader-seen\",\"\")}catch(e){}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://thepearlcoffees.com/#org\",\"name\":\"The Pearl Coffees\",\"legalName\":\"Agroverse UG (haftungsbeschränkt)\",\"url\":\"https://thepearlcoffees.com/\",\"logo\":\"https://thepearlcoffees.com/icon.png\",\"email\":\"founder@thepearlcoffees.com\",\"sameAs\":[\"https://www.instagram.com/thepearlcoffees/\",\"https://www.linkedin.com/company/agroverse-innovations/\"],\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ewaldstraße 90C\",\"postalCode\":\"12524\",\"addressLocality\":\"Berlin\",\"addressCountry\":\"DE\"}},{\"@type\":\"WebSite\",\"@id\":\"https://thepearlcoffees.com/#site\",\"url\":\"https://thepearlcoffees.com/\",\"name\":\"The Pearl Coffees\",\"publisher\":{\"@id\":\"https://thepearlcoffees.com/#org\"}}]}"}}],["$","noscript",null,{"children":"$2"}],["$","a",null,{"href":"#main","className":"skip-link tracked","children":"Skip to content"}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","className":"relative z-[1]","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}]]}]}]]}],"p":"$@10","v":null,"s":"$11"},"c":"$Q12"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2C1A0E"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Pearl Coffees — Single-origin coffee from India"}],["$","meta","1",{"name":"description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}],["$","link","2",{"rel":"canonical","href":"https://thepearlcoffees.com/"}],["$","meta","3",{"property":"og:title","content":"The Pearl Coffees — Single-origin coffee from India"}],["$","meta","4",{"property":"og:description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}],"$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]}],null]}],"$L31"]}],"p":"$@32","v":null,"s":"$11"}},"a":"$@33","u":"$@34","b":"mgB2NfBbkrQyGiwGnlj8r"}
+35:I[27201,["$3","$4","$5"],"IconMark"]
+1a:null
+20:["$","meta","5",{"property":"og:url","content":"https://thepearlcoffees.com/"}]
+21:["$","meta","6",{"property":"og:site_name","content":"The Pearl Coffees"}]
+22:["$","meta","7",{"property":"og:locale","content":"en"}]
+23:["$","meta","8",{"property":"og:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
+24:["$","meta","9",{"property":"og:image:width","content":"1200"}]
+25:["$","meta","10",{"property":"og:image:height","content":"630"}]
+26:["$","meta","11",{"property":"og:image:alt","content":"Araku Valley, India, seen through the trees"}]
+27:["$","meta","12",{"property":"og:type","content":"website"}]
+28:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+29:["$","meta","14",{"name":"twitter:title","content":"The Pearl Coffees — Single-origin coffee from India"}]
+2a:["$","meta","15",{"name":"twitter:description","content":"Single-origin specialty coffee from Araku Valley, India. Grown by 57 tribal farmers, roasted in Araku, sent to Berlin."}]
+2b:["$","meta","16",{"name":"twitter:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
+2c:["$","meta","17",{"name":"twitter:image:alt","content":"Araku Valley, India, seen through the trees"}]
+2d:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+2e:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+2f:["$","link","20",{"rel":"icon","href":"/icon.png?icon.2eah-d015vb8b.png","sizes":"256x256","type":"image/png"}]
+30:["$","$L35","21",{}]
+31:["$","meta",null,{"name":"next-size-adjust","content":""}]
+11:300
+34:true
+11:C
+33:0
+10:"$undefined"
+32:"$undefined"
+1b:"$undefined"

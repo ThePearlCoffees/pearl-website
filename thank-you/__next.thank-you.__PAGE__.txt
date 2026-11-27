@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-3:"/_next/static/chunks/186r-h_9v-1v3.js"
-4:"/_next/static/chunks/25fklosivtawt.js"
-5:"/_next/static/chunks/08fyzvkkh5kzp.js"
+3:"/_next/static/chunks/03oo6t7h-c-cj.js"
+4:"/_next/static/chunks/312esc7tl7kqn.js"
+5:"/_next/static/chunks/435ckhzbhu4bb.js"
 6:I[44995,["$3","$4","$5"],"default"]
 7:I[20032,["$3","$4","$5"],"default"]
 8:I[71829,["$3","$4","$5"],"default"]
@@ -9,20 +9,23 @@
 a:I[39756,["$3","$4","$5"],"default"]
 b:I[37457,["$3","$4","$5"],"default"]
 c:I[13642,["$3","$4","$5"],"default"]
-d:I[17721,["$3","$4","$5"],"default"]
-e:I[25205,["$3","$4","$5"],"default"]
-1f:"ViewportBoundary"
-20:I[97367,["$3","$4","$5"],"$1f"]
-21:"MetadataBoundary"
-22:I[97367,["$3","$4","$5"],"$21"]
-23:"$Sreact.suspense"
+d:I[44525,["$3","$4","$5"],"default"]
+e:I[17721,["$3","$4","$5"],"default"]
+f:I[25205,["$3","$4","$5"],"default"]
+16:"/_next/static/chunks/3cz38ya65v_od.js"
+17:I[52631,["$3","$4","$5","$16"],"default"]
+22:"ViewportBoundary"
+23:I[97367,["$3","$4","$5"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$3","$4","$5"],"$24"]
+26:"$Sreact.suspense"
 :HL["/_next/static/chunks/2sul1orstjypj.css","style"]
-:HL["/_next/static/chunks/1xnbhxws9-pf7.css","style"]
+:HL["/_next/static/chunks/2oic96x_pu-ze.css","style"]
 2:["$","style",null,{"children":".loader{display:none}.js-reveal,.reveal-word{opacity:1!important;visibility:visible!important;transform:none!important;filter:none!important}"}]
-10:X
-13:X
-13:C
-15:Tde2,
+11:X
+14:X
+14:C
+18:Tde2,
         .ty-wrap{max-width:1080px;margin:0 auto;padding:0 clamp(20px,5vw,56px)}
         .ty-rise{opacity:0;transform:translateY(14px);animation:tyRise 1s cubic-bezier(.2,.7,.2,1) forwards}
         @keyframes tyRise{to{opacity:1;transform:none}}
@@ -64,46 +67,45 @@ e:I[25205,["$3","$4","$5"],"default"]
           .ty-draw{animation:none;stroke-dashoffset:0!important}
           .ty-glow,.ty-arrive{animation:none}
         }
-      14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"pg pg-paper","style":{"minHeight":"100svh","overflowX":"hidden"},"children":[["$","style",null,{"children":"$15"}],"$L16","$L17","$L18","$L19","$L1a","$L1b"]}],["$L1c"],"$L1d"]}],"p":"$@1e","v":null,"s":"$10"}}]]
-11:[["children",{"s":"thank-you","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2sul1orstjypj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1xnbhxws9-pf7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/186r-h_9v-1v3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/25fklosivtawt.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/08fyzvkkh5kzp.js","async":true}]],["$","html",null,{"lang":"en","className":"I_7Jba_variable GQwjCa_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-forest font-sans text-cream antialiased","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"tpc-loader-seen\")===\"1\")document.documentElement.setAttribute(\"data-loader-seen\",\"\")}catch(e){}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://thepearlcoffees.com/#org\",\"name\":\"The Pearl Coffees\",\"legalName\":\"Agroverse UG (haftungsbeschränkt)\",\"url\":\"https://thepearlcoffees.com/\",\"logo\":\"https://thepearlcoffees.com/icon.png\",\"email\":\"founder@thepearlcoffees.com\",\"sameAs\":[\"https://www.instagram.com/thepearlcoffees/\",\"https://www.linkedin.com/company/agroverse-innovations/\"],\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ewaldstraße 90C\",\"postalCode\":\"12524\",\"addressLocality\":\"Berlin\",\"addressCountry\":\"DE\"}},{\"@type\":\"WebSite\",\"@id\":\"https://thepearlcoffees.com/#site\",\"url\":\"https://thepearlcoffees.com/\",\"name\":\"The Pearl Coffees\",\"publisher\":{\"@id\":\"https://thepearlcoffees.com/#org\"}}]}"}}],["$","noscript",null,{"children":"$2"}],["$","a",null,{"href":"#main","className":"skip-link tracked","children":"Skip to content"}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","className":"relative z-[1]","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2C1A0E"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Order confirmed — The Pearl Coffees"}],["$","meta","1",{"name":"description","content":"Your order from The Pearl Coffees is confirmed."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"canonical","href":"https://thepearlcoffees.com/"}],["$","meta","4",{"property":"og:title","content":"Order confirmed — The Pearl Coffees"}],["$","meta","5",{"property":"og:description","content":"Your order from The Pearl Coffees is confirmed."}],["$","meta","6",{"property":"og:site_name","content":"The Pearl Coffees"}],["$","meta","7",{"property":"og:locale","content":"en"}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31"]}]}],null]}],"$L32"]}],"p":"$@33","v":null,"s":"$10"}},"a":"$@34","u":"$@35","b":"3d17XgsyPtoJASFbwYyje"}
-36:"/_next/static/chunks/3jfdskd2onbhc.js"
-37:I[17881,["$3","$4","$5","$36"],"default"]
-38:I[38025,["$3","$4","$5","$36"],"default"]
-39:I[98760,["$3","$4","$5","$36"],"default"]
-3a:I[59099,["$3","$4","$5","$36"],"default"]
-3b:I[22016,["$3","$4","$5","$36"],""]
-3c:I[97367,["$3","$4","$5"],"OutletBoundary"]
-3e:I[27201,["$3","$4","$5"],"IconMark"]
-16:["$","div",null,{"className":"ty-wrap","children":["$","div",null,{"className":"ty-hero","children":[["$","div",null,{"className":"ty-glow"}],["$","p",null,{"className":"mono tracked ty-rise","style":{"color":"#8c5e1e","textAlign":"center","animationDelay":".2s"},"children":"Order confirmed · Bestellung bestätigt"}],["$","h1",null,{"className":"ty-h1 ty-rise","style":{"animationDelay":".5s"},"children":["Your pearl is",["$","br",null,{}],"on its ",["$","$L37",null,{"as":"i","text":"way."}]]}],["$","p",null,{"className":"ty-lede ty-rise","style":{"animationDelay":".9s"},"children":"Grown by tribal farmers in the forest highlands of Araku Valley, roasted where it grew, and now travelling to your door."}],["$","div",null,{"className":"ty-rise","style":{"animationDelay":"1.2s"},"children":["$","$L38",null,{}]}]]}]}]
-17:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap ty-cols","children":[["$","div",null,{"children":[["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e"},"children":"What happens next"}],["$","h2",null,{"className":"ty-h2","children":"Three quiet steps."}]]}],["$","ol",null,{"className":"ty-steps","children":[["$","li","01",{"children":[["$","i",null,{"className":"mono","children":"01"}],["$","b",null,{"children":"Your receipt"}],["$","span",null,{"children":"The invoice is already in your inbox. Check spam if you cannot find it."}]]}],["$","li","02",{"children":[["$","i",null,{"className":"mono","children":"02"}],["$","b",null,{"children":"Packed in Berlin"}],["$","span",null,{"children":"Roasted at origin in Araku Valley, packed by hand and handed to DHL."}]]}],["$","li","03",{"children":[["$","i",null,{"className":"mono","children":"03"}],["$","b",null,{"children":"At your door"}],["$","span",null,{"children":"Usually 2 to 4 working days within Germany. DHL sends you the tracking."}]]}]]}]]}]}]
-18:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap","children":[["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e","marginBottom":22},"children":"A note from the founder"}],["$","p",null,{"className":"ty-note","children":"You have just become part of something small and slow. Every bag starts with a farmer in the Eastern Ghats and ends with someone who cares where their coffee comes from. Thank you for being that person."}],["$","p",null,{"style":{"marginTop":26,"lineHeight":1.5},"children":[["$","b",null,{"style":{"fontWeight":400},"children":"Prudhvi"}],["$","br",null,{}],["$","span",null,{"className":"mono tracked","style":{"opacity":0.6},"children":"Founder · The Pearl Coffees"}]]}]]}]}]
-19:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap","style":{"display":"flex","flexWrap":"wrap","gap":"14px 22px","alignItems":"center","justifyContent":"space-between"},"children":[["$","div",null,{"children":[["$","h2",null,{"className":"ty-h2","style":{"marginTop":0},"children":"Know someone who would love it?"}],["$","p",null,{"style":{"opacity":0.7,"margin":"8px 0 0"},"children":"Send them the forest. One tap copies the link."}]]}],["$","$L39",null,{}]]}]}]
-1a:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap ty-cols","children":[["$","div",null,{"children":["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e"},"children":"Optional"}]}],["$","div",null,{"children":[["$","$L3a",null,{"source":"Thank-you page","title":"Hear about the next pearl.","lede":"Optional. Your order does not depend on it."}],["$","p",null,{"style":{"marginTop":28,"lineHeight":1.6},"children":["Questions about your order? Write to ",["$","a",null,{"href":"mailto:founder@thepearlcoffees.com","children":"founder@thepearlcoffees.com"}],"."]}]]}]]}]}]
-1b:["$","p",null,{"style":{"textAlign":"center","padding":"40px 0 70px","borderTop":"1px solid rgba(74,34,20,.18)","margin":0},"children":["$","$L3b",null,{"href":"/","className":"tracked","children":"Back to the forest →"}]}]
-1c:["$","script","script-0",{"src":"/_next/static/chunks/3jfdskd2onbhc.js","async":true}]
-1d:["$","$L3c",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@3d"}]}]
-24:["$","meta","8",{"property":"og:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
-25:["$","meta","9",{"property":"og:image:width","content":"1200"}]
-26:["$","meta","10",{"property":"og:image:height","content":"630"}]
-27:["$","meta","11",{"property":"og:image:alt","content":"Araku Valley, India, seen through the trees"}]
-28:["$","meta","12",{"property":"og:type","content":"website"}]
-29:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
-2a:["$","meta","14",{"name":"twitter:title","content":"Order confirmed — The Pearl Coffees"}]
-2b:["$","meta","15",{"name":"twitter:description","content":"Your order from The Pearl Coffees is confirmed."}]
-2c:["$","meta","16",{"name":"twitter:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
-2d:["$","meta","17",{"name":"twitter:image:alt","content":"Araku Valley, India, seen through the trees"}]
-2e:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
-2f:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
-30:["$","link","20",{"rel":"icon","href":"/icon.png?icon.2eah-d015vb8b.png","sizes":"256x256","type":"image/png"}]
-31:["$","$L3e","21",{}]
-32:["$","meta",null,{"name":"next-size-adjust","content":""}]
-10:300
-3d:null
-35:true
-10:C
-34:0
-12:"$undefined"
-f:"$undefined"
-33:"$undefined"
-1e:"$undefined"
+      15:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"pg pg-paper","style":{"minHeight":"100svh","overflowX":"hidden"},"children":[["$","$L17",null,{}],["$","style",null,{"children":"$18"}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}],["$L1f"],"$L20"]}],"p":"$@21","v":null,"s":"$11"}}]]
+12:[["children",{"s":"thank-you","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@13","v":"$14","s":"$11"},"c":"$Q15"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2sul1orstjypj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2oic96x_pu-ze.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/03oo6t7h-c-cj.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/312esc7tl7kqn.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/435ckhzbhu4bb.js","async":true}]],["$","html",null,{"lang":"en","className":"I_7Jba_variable GQwjCa_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-forest font-sans text-cream antialiased","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"tpc-loader-seen\")===\"1\")document.documentElement.setAttribute(\"data-loader-seen\",\"\")}catch(e){}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://thepearlcoffees.com/#org\",\"name\":\"The Pearl Coffees\",\"legalName\":\"Agroverse UG (haftungsbeschränkt)\",\"url\":\"https://thepearlcoffees.com/\",\"logo\":\"https://thepearlcoffees.com/icon.png\",\"email\":\"founder@thepearlcoffees.com\",\"sameAs\":[\"https://www.instagram.com/thepearlcoffees/\",\"https://www.linkedin.com/company/agroverse-innovations/\"],\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ewaldstraße 90C\",\"postalCode\":\"12524\",\"addressLocality\":\"Berlin\",\"addressCountry\":\"DE\"}},{\"@type\":\"WebSite\",\"@id\":\"https://thepearlcoffees.com/#site\",\"url\":\"https://thepearlcoffees.com/\",\"name\":\"The Pearl Coffees\",\"publisher\":{\"@id\":\"https://thepearlcoffees.com/#org\"}}]}"}}],["$","noscript",null,{"children":"$2"}],["$","a",null,{"href":"#main","className":"skip-link tracked","children":"Skip to content"}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","className":"relative z-[1]","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}]]}]}]]}],"p":"$@10","v":null,"s":"$11"},"c":"$Q12"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2C1A0E"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Order confirmed — The Pearl Coffees"}],["$","meta","1",{"name":"description","content":"Your order from The Pearl Coffees is confirmed."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"canonical","href":"https://thepearlcoffees.com/"}],["$","meta","4",{"property":"og:title","content":"Order confirmed — The Pearl Coffees"}],["$","meta","5",{"property":"og:description","content":"Your order from The Pearl Coffees is confirmed."}],["$","meta","6",{"property":"og:site_name","content":"The Pearl Coffees"}],["$","meta","7",{"property":"og:locale","content":"en"}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}],null]}],"$L35"]}],"p":"$@36","v":null,"s":"$11"}},"a":"$@37","u":"$@38","b":"mgB2NfBbkrQyGiwGnlj8r"}
+39:I[17881,["$3","$4","$5","$16"],"default"]
+3a:I[38025,["$3","$4","$5","$16"],"default"]
+3b:I[98760,["$3","$4","$5","$16"],"default"]
+3c:I[59099,["$3","$4","$5","$16"],"default"]
+3d:I[22016,["$3","$4","$5","$16"],""]
+3e:I[97367,["$3","$4","$5"],"OutletBoundary"]
+40:I[27201,["$3","$4","$5"],"IconMark"]
+19:["$","div",null,{"className":"ty-wrap","children":["$","div",null,{"className":"ty-hero","children":[["$","div",null,{"className":"ty-glow"}],["$","p",null,{"className":"mono tracked ty-rise","style":{"color":"#8c5e1e","textAlign":"center","animationDelay":".2s"},"children":"Order confirmed · Bestellung bestätigt"}],["$","h1",null,{"className":"ty-h1 ty-rise","style":{"animationDelay":".5s"},"children":["Your pearl is",["$","br",null,{}],"on its ",["$","$L39",null,{"as":"i","text":"way."}]]}],["$","p",null,{"className":"ty-lede ty-rise","style":{"animationDelay":".9s"},"children":"Grown by tribal farmers in the forest highlands of Araku Valley, roasted where it grew, and now travelling to your door."}],["$","div",null,{"className":"ty-rise","style":{"animationDelay":"1.2s"},"children":["$","$L3a",null,{}]}]]}]}]
+1a:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap ty-cols","children":[["$","div",null,{"children":[["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e"},"children":"What happens next"}],["$","h2",null,{"className":"ty-h2","children":"Three quiet steps."}]]}],["$","ol",null,{"className":"ty-steps","children":[["$","li","01",{"children":[["$","i",null,{"className":"mono","children":"01"}],["$","b",null,{"children":"Your receipt"}],["$","span",null,{"children":"The invoice is already in your inbox. Check spam if you cannot find it."}]]}],["$","li","02",{"children":[["$","i",null,{"className":"mono","children":"02"}],["$","b",null,{"children":"Packed in Berlin"}],["$","span",null,{"children":"Roasted at origin in Araku Valley, packed by hand and handed to DHL."}]]}],["$","li","03",{"children":[["$","i",null,{"className":"mono","children":"03"}],["$","b",null,{"children":"At your door"}],["$","span",null,{"children":"Usually 2 to 4 working days within Germany. DHL sends you the tracking."}]]}]]}]]}]}]
+1b:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap","children":[["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e","marginBottom":22},"children":"A note from the founder"}],["$","p",null,{"className":"ty-note","children":"You have just become part of something small and slow. Every bag starts with a farmer in the Eastern Ghats and ends with someone who cares where their coffee comes from. Thank you for being that person."}],["$","p",null,{"style":{"marginTop":26,"lineHeight":1.5},"children":[["$","b",null,{"style":{"fontWeight":400},"children":"Prudhvi"}],["$","br",null,{}],["$","span",null,{"className":"mono tracked","style":{"opacity":0.6},"children":"Founder · The Pearl Coffees"}]]}]]}]}]
+1c:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap","style":{"display":"flex","flexWrap":"wrap","gap":"14px 22px","alignItems":"center","justifyContent":"space-between"},"children":[["$","div",null,{"children":[["$","h2",null,{"className":"ty-h2","style":{"marginTop":0},"children":"Know someone who would love it?"}],["$","p",null,{"style":{"opacity":0.7,"margin":"8px 0 0"},"children":"Send them the forest. One tap copies the link."}]]}],["$","$L3b",null,{}]]}]}]
+1d:["$","section",null,{"className":"ty-s","children":["$","div",null,{"className":"ty-wrap ty-cols","children":[["$","div",null,{"children":["$","div",null,{"className":"mono tracked","style":{"color":"#8c5e1e"},"children":"Optional"}]}],["$","div",null,{"children":[["$","$L3c",null,{"source":"Thank-you page","title":"Hear about the next pearl.","lede":"Optional. Your order does not depend on it."}],["$","p",null,{"style":{"marginTop":28,"lineHeight":1.6},"children":["Questions about your order? Write to ",["$","a",null,{"href":"mailto:founder@thepearlcoffees.com","children":"founder@thepearlcoffees.com"}],"."]}]]}]]}]}]
+1e:["$","p",null,{"style":{"textAlign":"center","padding":"40px 0 70px","borderTop":"1px solid rgba(74,34,20,.18)","margin":0},"children":["$","$L3d",null,{"href":"/","className":"tracked","children":"Back to the forest →"}]}]
+1f:["$","script","script-0",{"src":"/_next/static/chunks/3cz38ya65v_od.js","async":true}]
+20:["$","$L3e",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@3f"}]}]
+27:["$","meta","8",{"property":"og:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
+28:["$","meta","9",{"property":"og:image:width","content":"1200"}]
+29:["$","meta","10",{"property":"og:image:height","content":"630"}]
+2a:["$","meta","11",{"property":"og:image:alt","content":"Araku Valley, India, seen through the trees"}]
+2b:["$","meta","12",{"property":"og:type","content":"website"}]
+2c:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+2d:["$","meta","14",{"name":"twitter:title","content":"Order confirmed — The Pearl Coffees"}]
+2e:["$","meta","15",{"name":"twitter:description","content":"Your order from The Pearl Coffees is confirmed."}]
+2f:["$","meta","16",{"name":"twitter:image","content":"https://thepearlcoffees.com/og/home.jpg"}]
+30:["$","meta","17",{"name":"twitter:image:alt","content":"Araku Valley, India, seen through the trees"}]
+31:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+32:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+33:["$","link","20",{"rel":"icon","href":"/icon.png?icon.2eah-d015vb8b.png","sizes":"256x256","type":"image/png"}]
+34:["$","$L40","21",{}]
+35:["$","meta",null,{"name":"next-size-adjust","content":""}]
+11:300
+3f:null
+38:true
+11:C
+37:0
+13:"$undefined"
+10:"$undefined"
+36:"$undefined"
+21:"$undefined"
